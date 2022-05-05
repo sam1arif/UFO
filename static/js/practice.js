@@ -77,3 +77,8 @@ data.forEach((dataRow) => {
 // 1. Looped through each object in the array
 // 2. Appended a row to the HTML table
 // 3. Added each value from the object into a cell
+
+// pseudocode practice with if statements
+if (a date is entered) {
+  Filter the default data to show only the date entered
+};
