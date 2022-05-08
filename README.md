@@ -7,7 +7,7 @@
  ## Results
  
   By adding the city, state, country and shape criteria besides the date, anyone can filter the data by their preferred criteria by filtering it by mentioned search criteria. 
-  ![UFO Sighting](https://user-images.githubusercontent.com/96811934/167306692-9b90a6a7-f7f0-493e-bdeb-33fe67df5403.png)
+<img width="1658" alt="UFO sighting filters" src="https://user-images.githubusercontent.com/96811934/167306796-09531386-3c70-44ad-b27a-fe5733b06b1d.png">
 
   
 ## Summary
